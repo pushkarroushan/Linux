@@ -1,2 +1,2 @@
 # Linux
-A repository for linux POC
+A repository for linux training
