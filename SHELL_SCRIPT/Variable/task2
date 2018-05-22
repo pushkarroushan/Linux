@@ -1,0 +1,21 @@
+****
+What you will learn:
+
+* How to read input from the user 
+* If Else concept.
+* Command line arguments
+
+
+TASK 1:
+
+* Print "Enter any single digit or double digit number" 
+* Read input from the user
+* If number is of single digit then print "Its a single digit number"
+* If number is of double digit then print "Its a double digit number"
+* If number is of greater than double digit then print "Invalid choice"
+
+TASK 2:
+
+* Do same task as above ,but this time give input as a command line argument when you run your script. 
+  (instead of reading input from user)
+     
