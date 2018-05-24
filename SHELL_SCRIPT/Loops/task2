@@ -1,1 +1,50 @@
 
+****
+What you will learn:
+
+* nested For loop
+
+
+Pattern 1 : 
+*
+* *
+* * *
+* * * *
+
+Pattern 2 :
+* * * * 
+* * *
+* *
+*
+
+Pattern3:
+   *
+  *  *
+*   *   *
+
+
+TASK 1:
+
+* Print "Enter no of line you want to print *" 
+* Read input from the user (say no variable)
+* Print "Enter pattern no"
+* Read input from the user (say pattern_type variable)
+* Print the * character according to the pattern
+
+O/p should be like this ----->
+
+Enter no of line you want to print *
+5
+Enter pattern no 
+2
+
+* * * * *
+* * * * 
+* * *
+* *
+*
+
+
+TASK 2:
+
+* Do same task as above ,but this time use while loop instead of for loop
