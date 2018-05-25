@@ -1,0 +1,10 @@
+****
+What you will learn:
+
+* How to create user using script.
+
+TASK :
+
+* Read username from the user
+* If user is already present in system then print "User is already present"
+* otherwise add that user in system and make home directory for the same and print "User is added succesfully".
