@@ -1,0 +1,18 @@
+****
+What you will learn:
+
+* switch case
+* Function.
+
+TASK 1:
+
+* Print "What do you want to do ...
+         1. Create a user
+         2. Delete a user
+         3. Make a directory
+         4. Change permission of folder
+         " 
+* User will enter his choice . i.e 1 or 2 or 3 or 4
+* According to the choice , take other inputs from user and perform the task using functions
+
+
